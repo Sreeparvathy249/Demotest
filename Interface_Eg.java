@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction;//
 interface Interface_Eg2 {
 	String name = "Hello";
 	void run();
